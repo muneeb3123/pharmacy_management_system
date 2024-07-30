@@ -1,0 +1,1 @@
+![Pharmacy Management System](pharmacy_management_system.png)
